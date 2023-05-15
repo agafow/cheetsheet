@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "2aa6bc4822330703",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc667bec3f2c8f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf3cb625db98127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data_Science/Data analytics Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5778de0aa7e9935",
+    "type": "split",
+    "children": [
+      {
+        "id": "40132c8eba1e4d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6458834cdba9d845",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2462ebacdb7ccc83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e3d06937088b4e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "65f17bb0d3af5dc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "1e63628698b983f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96902929d2a9d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4bcdcd924cc233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data_Science/Data analytics Theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7b14734f461a257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data_Science/Data analytics Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "245749c53e6de9f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a4e64c1f5de64d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data_Science/Data analytics Theory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "ddf3cb625db98127",
+  "lastOpenFiles": [
+    "Network/1. Network fundamentals/0.1 Network.md",
+    "Data_Science/Data analytics Theory.md",
+    "Data_Science/R basics.md",
+    "R plots.md",
+    "Other_staff/Epos finding.md",
+    "desktop.ini",
+    "images/Rplot03.png",
+    "images/R01.png",
+    "images/Rplot02.png",
+    "images/rplot_ex1.png",
+    "images/Rplot.png",
+    "images",
+    "New folder",
+    "Untitled.md",
+    "Data_Science",
+    "Network/1. Network fundamentals/1.1.1. Network fundamentals.md",
+    "Other_staff",
+    "Network/2. Network access/2.0 Network access.md",
+    "Network/2. Network access/2.1.b Default VLAN.md",
+    "Network/2. Network access/2.1 VLANs.md",
+    "Network/Motivation day work.md",
+    "Network/Books CCNA.md",
+    "Network/1. Network fundamentals/1.1.a. Routers.md",
+    "cheat-sheets-main/tools/wsl.md",
+    "cheat-sheets-main/tools/vscode.md",
+    "cheat-sheets-main/tools/vagrant.md",
+    "cheat-sheets-main/tools/terraform.md",
+    "cheat-sheets-main/tools/starship.md",
+    "cheat-sheets-main/tools/packer.md",
+    "cheat-sheets-main/tools/openssl.md",
+    "cheat-sheets-main/tools/openssh.md",
+    "cheat-sheets-main/tools/git.md",
+    "cheat-sheets-main/tools/direnv.md",
+    "cheat-sheets-main/tools/datree.md",
+    "cheat-sheets-main/tools/chocolatey.md",
+    "cheat-sheets-main/windows",
+    "cheat-sheets-main/tools",
+    "cheat-sheets-main/networking",
+    "cheat-sheets-main/misc",
+    "cheat-sheets-main/macos",
+    "Network/1. Network fundamentals/Untitled 1.canvas",
+    "Network/1. Network fundamentals/Untitled.canvas",
+    "03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+    "03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
+    "03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png"
+  ]
+}
